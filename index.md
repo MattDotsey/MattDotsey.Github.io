@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Dynasty Fantasy Football App](/sample_page)
+[Dynasty Fantasy Football App](/fantasy_football)
 <img src="images/trade_table.png?raw=true"/>
 
 ---
