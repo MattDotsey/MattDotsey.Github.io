@@ -6,4 +6,5 @@ For more Information about the construction of the app itself, you can refer to 
 
 For the purposes of the portfolio, I will be focusing on later additions to the project in an attempt to analyze information about other teams in the league and how I can use that information to my advantage. 
 
-The first addition I made to the app was a basic script that collects a "value" for each other team in the league and adds it to a table in my database file. I have this script set to run automatically on the first of every month. I then take the information and give it to each of the 
+The first addition I made to the app was a script that uses Python and Selenium to collect a "value" for each other team in the league and add it to a table in my database file. The script set to run automatically on the first of every month, and I use it to create a "Power Ranking" of all of the teams in the league.
+
