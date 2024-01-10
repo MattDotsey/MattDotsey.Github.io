@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Ongoing Fantasy Football Project
 
 [Dynasty Fantasy Football App](/fantasy_football)
 <img src="images/trade_table.png?raw=true"/>
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Data Science
 
-- [Project 1 Title](http://example.com/)
+- [Kaggle Competition: House Price Prediction](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
