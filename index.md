@@ -8,7 +8,7 @@
 <img src="images/trade_table.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Ames Dataset Modelling](/ames_dataset_modelling.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
