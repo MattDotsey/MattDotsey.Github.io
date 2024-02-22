@@ -2,16 +2,16 @@
 
 ---
 
-### Ongoing Fantasy Football Project
-
 [Dynasty Fantasy Football App](/fantasy_football)
 <img src="images/trade_table.png?raw=true"/>
 
 ---
 [Ames Dataset Modelling](/ames_dataset_modelling.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/housing.png?raw=true"/>
 
 ---
+<!--
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -26,7 +26,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
+-->
 
 
 
